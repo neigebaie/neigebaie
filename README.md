@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @neigebaie, a french student
+- 🌱 I’m currently studying at ESIGELEC
