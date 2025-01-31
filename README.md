@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @neigebaie, a french student
-- 🌱 I’m currently studying at ESIGELEC
+- 👋 Hi, I’m @neigebaie, a french software engineer
+- 🌱 I studied at ESIGELEC (promo 2024)
